@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/08dfcb86-9bef-46c8-ae89-b781f990d07f/deploy-status)](https://app.netlify.com/sites/cruda/deploys)
 # CRUD-APP
 
 What is CRUD?
