@@ -30,7 +30,7 @@ function removeText(currentElement) {
         let newEmptyMsg = document.createElement("h3")
         newEmptyMsg.classList.add("emptyMsg")
         newEmptyMsg.textContent = "Oops! nothing here. Please add."
-        newEmptyMsg.style.color="red"
+        newEmptyMsg.style.color = "red"
         parentList.appendChild(newEmptyMsg)
     }
 }
