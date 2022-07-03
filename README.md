@@ -20,3 +20,4 @@ When we are building APIs, we want our models to provide four basic types of fun
 The CRUD paradigm is common in constructing web applications, because it provides a memorable framework for reminding developers of how to construct full, usable models. For example, let’s imagine a system to keep track of library books. In this hypothetical library database, we can imagine that there would be a books resource, which would store book objects.
 
 ![image](https://user-images.githubusercontent.com/60316890/172036548-516d1205-8e49-42c0-ab80-f03f4c660df0.png)
+![image](https://user-images.githubusercontent.com/60316890/177035271-447afa04-da58-4fc4-9dab-cd658980b429.png)
