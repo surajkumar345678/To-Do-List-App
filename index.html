@@ -1,42 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
-
-    <title>CRUD APP</title>
+    <title>To-Do List App</title>
+    <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-    <header>
-        <nav class="navbar navbar-white bg-primary bg-gradient
-         justify-content-center ">
-            <h1><span class="navbar-brand mb-0 h1 text-white">CRUD APP</span></h1>
-        </nav>
-    </header>
-
-    <main>
-        <div class="container mt-5 col-5">
-            <div class="input-group mb-3">
-                <input type="text" class="form-control" placeholder="Enter Text Here" aria-describedby="basic-addon2">
-                <button id="add_btn" class="btn btn-success" type="button" id="basic-addon2">Add</button>
-            </div>
-            <ul id="parentList" class="list-group">
-                <li class="list-group-item d-flex justify-content-between">
-                    <h4 class="flex-grow-1">Text 1</h4> <button class="btn btn-warning mx-2"
-                        onclick="editText(this)">Edit</button>
-                    <button class="btn btn-danger" onclick="removeText(this)">Remove</button>
-                </li>
-
-            </ul>
-        </div>
-    </main>
-    <script src="/crud_script.js"></script>
+    
+    <script src="script.js"></script>
 </body>
-
 </html>
