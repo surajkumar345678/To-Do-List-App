@@ -77,7 +77,7 @@ This repository contains the source code for a simple To-Do List application bui
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is not licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
